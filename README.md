@@ -3,12 +3,13 @@
 - 🌱 I’m currently learning : 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) 
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
+- 🖥️ I use Arch btw : ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 ---
 ### <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25" />  [![Reddit parazeeknova ](https://img.shields.io/reddit/user-karma/combined/parazeeknova?style=social)](https://www.reddit.com/user/parazeeknova) [![Twitter: parazeeknova](https://img.shields.io/twitter/follow/parazeeknova?style=social)](https://twitter.com/parazeeknova) [![GitHub parazeeknova](https://img.shields.io/github/followers/parazeeknova?label=follow&style=social)](https://github.com/parazeeknova)  [![Gmail Badge](https://img.shields.io/badge/-harshsahu049@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshsahu049@gmail.com)](mailto:harshsahu049@gmail.com)
 
 <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="25" />  ![](https://img.shields.io/github/last-commit/parazeeknova/parazeeknova) 
-![](https://img.shields.io/github/commit-activity/m/parazeeknova/parazeeknova)
+![](https://img.shields.io/github/commit-activity/m/parazeeknova/parazeeknova) 
 
 ```python
 #!/usr/bin/python
@@ -28,7 +29,7 @@ me = HighSchool()
 me.say_hi()
 ``` 
 ---
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=parazeeknova&show_icons=true)
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=parazeeknova&show_icons=true) <img src="https://media.giphy.com/media/4ckT6b5vo5NrvDksNv/giphy.gif" width="175" />
 
 
 <!---
