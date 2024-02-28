@@ -1,7 +1,8 @@
-# Hey there! 👋
+<h3 align="center">
+	<img src="assets/pzeeknva.jpg" alt="CodingLofiBoy"/>
+</h3>
 
-### **I'm glad you stopped by!**
- 
+### **Hey There!** 👋 
  ***I'm [Harsh](https://github.com/parazeeknova), an enthusiastic undergraduate student at Vellore Institute of Technology 🎓, passionate about AI and ML as well as full-stack development, and exploring the exciting field of computer science 💡. At 18 years old, I'm fueled by curiosity and an eagerness to learn 🌱.***
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hashcodes@gmail.com)
