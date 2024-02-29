@@ -22,10 +22,10 @@
 
 </div>
 
-<h3> 🐧 Little facts about me : </h3>
+<h3> About: </h3>
 
 - 🌟 About Me: I'm a passionate learner who's always hungry for knowledge.
-- 🔭 I’m currently working on Python GUI's for desktop.
+- 🔭 I’m currently working with Python GUI for desktop applications.
 - 🎓 Education : Bachelor of Technology in Computer Science and Engineering (Expected Graduation: 2027)
 - 👯 I’m looking to collaboration with any projects.
 - 💡 Contributing to Open Source Projects.
@@ -35,6 +35,8 @@
 ### 🧑🏻‍💻 Tech Stack / Tools: 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![Tkinter](https://img.shields.io/badge/Tkinter-GUI%20Library-blueviolet?style=for-the-badge&logo=tkinter)](https://docs.python.org/3/library/tkinter.html)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-GUI%20Library-orange?style=for-the-badge)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parazeeknova)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -43,9 +45,7 @@
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-</br>
+<br>
 
 ---
 ### 📊 GitHub Stats
