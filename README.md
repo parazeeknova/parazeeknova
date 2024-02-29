@@ -1,6 +1,7 @@
-<h3 align="center">
-	<img src="assets/pzeeknva.jpg" alt="CodingLofiBoy"/>
-</h3>
+![MasterHead](assets/mario.gif)
+<h1 align="center">Hi👋 I'm Harsh Sahu</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Undergraduate;Technology+Aficionado;Aspiring+Data+Structures+and+MERN+Stack" alt="Typing SVG" /></a>
 
 ### **Hey There!** 👋 
  ***I'm [Harsh](https://github.com/parazeeknova), an enthusiastic undergraduate student at Vellore Institute of Technology 🎓, passionate about AI and ML as well as full-stack development, and exploring the exciting field of computer science 💡. At 18 years old, I'm fueled by curiosity and an eagerness to learn 🌱.***
