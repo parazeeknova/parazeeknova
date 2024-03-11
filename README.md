@@ -32,7 +32,6 @@
 - 👯 I’m looking to collaboration with any projects.
 - 💡 Contributing to Open Source Projects.
 - ⚡ Fun fact: I love video games, especially RPGs.
-<br>
 &nbsp;
 
 ### 🐥 Featured Projects : 
