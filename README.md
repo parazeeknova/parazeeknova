@@ -33,9 +33,9 @@
 - 💡 Contributing to Open Source Projects.
 - ⚡ Fun fact: I love video games, especially RPGs.
 <br>
+&nbsp;
 
 ### 🐥 Featured Projects : 
-
 1. [NyxText](https://github.com/parazeeknova/nyxtext) : Advanced Text Editor written in Python uses Tkinter, CustomTkinter.
 
 ### 🧑🏻‍💻 Tech Stack / Tools: 
@@ -91,6 +91,7 @@
 ![(Linux)](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![(Debian)](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 </div>
+&nbsp;
 
 ---
 ### 📊 GitHub Stats
