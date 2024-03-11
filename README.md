@@ -97,7 +97,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parazeeknova&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parazeeknova&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 </div>
 
 <div align="center">
