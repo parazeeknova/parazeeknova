@@ -36,6 +36,7 @@
 
 ### 🐥 Featured Projects : 
 1. [NyxText](https://github.com/parazeeknova/nyxtext) : Advanced Text Editor written in Python uses Tkinter, CustomTkinter.
+2. [AI Club's Website](https://parazeeknova.github.io/AI-Club-Website/) : Uses HTML5 & CSS3, animations and my first proper website build from scratch.
 
 ### 🧑🏻‍💻 Tech Stack / Tools: 
 <div align="center">
