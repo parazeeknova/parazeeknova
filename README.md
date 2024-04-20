@@ -34,9 +34,11 @@
 - ⚡ Fun fact: I love video games, especially RPGs.
 &nbsp;
 
-### 🐥 Featured Projects : 
-1. [NyxText](https://github.com/parazeeknova/nyxtext) : Advanced Text Editor written in Python uses Tkinter, CustomTkinter.
-2. [AI Club's Website](https://parazeeknova.github.io/AI-Club-Website/) : Uses HTML5 & CSS3, animations and my first proper website build from scratch.
+### 🐥 Featured Projects :
+1. [MyFolio](https://harshsahu-portfolio.vercel.app/) : Personal Portfolio Website written in HTML, SASS, Bootstrap, Javascript, Jquery & Formspree.
+2. [NyxText](https://github.com/parazeeknova/nyxtext) : Advanced Text Editor written in Python uses Tkinter, CustomTkinter.
+3. [AI Club's Website](https://parazeeknova.github.io/AI-Club-Website/) : Uses HTML5 & CSS3, animations and my first proper website build from scratch.
+4. [Arch Linux Dotfiles](https://github.com/parazeeknova/pistachio-V2-dotfiles) : Dotfiles for Openbox (X11 window manager) for Archcraft OS.
 
 ### 🧑🏻‍💻 Tech Stack / Tools: 
 <div align="center">
