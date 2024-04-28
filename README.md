@@ -1,7 +1,7 @@
 ![MasterHead](assets/mario.gif)
 <h1 align="center">Hi👋 I'm Harsh Sahu</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Undergraduate;Technology+Connoisseur;Aspiring+AI+and+ML+Engineer;Learning+Fullstack+Development" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=400&lines=Computer+Science+Undergraduate;Technology+Connoisseur;Aspiring+AI+and+ML+Engineer;Learning+Fullstack+Development" alt="Typing SVG" /></a>
 
 </p>
 <p align="center">
@@ -11,7 +11,16 @@
   <br>
 </p>
 
-### 🌱 Let's Connect :
+<p align="center">
+<a href="https://harshsahu-portfolio.vercel.app/" style="text-decoration: underline;">Portfolio</a> | <a href="https://harshsahu-portfolio.vercel.app/#aboutsection" style="text-decoration: underline;">About</a> 
+</p>
+
+<p align="center">
+✨I translate ideas into pixels and interactivity on the web. View my <a href="
+" style="text-decoration: underline;">Projects</a>, <a href="https://harshsahu-portfolio.vercel.app/#resume" style="text-decoration: underline;">Resume</a>, <a href="https://harshsahu-portfolio.vercel.app/#contactthroughmail" style="text-decoration: underline;">Contact</a>. 
+</p>
+
+### Socials:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hashcodes@gmail.com)
@@ -20,8 +29,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hashcodes_)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/Parazeeknova#0122)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashk/)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dev.hashk)
-
 </div>
 
 <h3> About: </h3>
@@ -34,11 +41,9 @@
 - ⚡ Fun fact: I love video games, especially RPGs.
 &nbsp;
 
-### 🐥 Featured Projects :
+### Featured Projects :
 1. [MyFolio](https://harshsahu-portfolio.vercel.app/) : Personal Portfolio Website written in HTML, SASS, Bootstrap, Javascript, Jquery & Formspree.
 2. [NyxText](https://github.com/parazeeknova/nyxtext) : Advanced Text Editor written in Python uses Tkinter, CustomTkinter.
-3. [AI Club's Website](https://parazeeknova.github.io/AI-Club-Website/) : Uses HTML5 & CSS3, animations and my first proper website build from scratch.
-4. [Arch Linux Dotfiles](https://github.com/parazeeknova/pistachio-V2-dotfiles) : Dotfiles for Openbox (X11 window manager) for Archcraft OS.
 
 ### 🧑🏻‍💻 Tech Stack / Tools: 
 <div align="center">
@@ -59,42 +64,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/parazeeknova)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
 <br>
-</div>
-
-### 👀 Coding Profiles : 
-<div align="center">
-
-![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-</div>
-
-### 📚 Currently Learning on : 
-<div align="center">
-
-![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
-![CS50](https://img.shields.io/badge/CS50-A51C30?style=for-the-badge&logo=cs50&logoColor=white)
-![CodeDex](https://img.shields.io/badge/CodeDex-FEDE03?style=for-the-badge&logoColor=white)
-</div>
-
-<!-- ### ✨ Freelancing : 
-<div align="center">
-
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
-</div> -->
-
-### 💻 System Specs & OS : 
-<div align="center">
-
-![Intel](https://img.shields.io/badge/Intel-Core_i7_12th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![(Windows)](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![(Linux)](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![(Debian)](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 </div>
 &nbsp;
 
