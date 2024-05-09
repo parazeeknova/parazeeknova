@@ -14,20 +14,12 @@
 </p>
 
 
-<h3> About: </h3>
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 50%;">
-    🌟 About Me: I'm a passionate learner who's always hungry for knowledge. <br>
-    🔭 I’m currently building my own text editor. <br>
-    📖 I'm currently learning MERN stack & DevOps. <br>
-    🎓 Education : Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine learning. <br>
-    🕹️ Always up for a good RPG adventure, especially liking Resident Evil and Final Fantasy series & many more.... <br>
-  </div>
-  <div style="width: 50%; text-align: right;">
-    <img src="assets/mario.gif" alt="MasterHead" width="360px">
-  </div>
-</div>
+👨🏻‍💻 **About Me**<img src="assets/mario.gif" min-width="300px" max-width="300px" width="350px" align="right"> <br>
+I'm a passionate learner who's always hungry for knowledge. <br>
+🔭 I’m currently building my own text editor. <br>
+📖 I'm currently learning MERN stack & DevOps. <br>
+🎓 Education : Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine learning. <br>
+🕹️ Always up for a good RPG adventure, especially liking Resident Evil and Final Fantasy series & many more.... <br>
 
 ### Featured Projects :
 1. [MyFolio](https://harshsahu-portfolio.vercel.app/) : Personal Portfolio Website written in HTML, SASS, Bootstrap, Javascript, Jquery & Formspree.
