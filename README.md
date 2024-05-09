@@ -14,8 +14,8 @@
 </p>
 
 
-👨🏻‍💻 **About Me**<img src="assets/mario.gif" min-width="300px" max-width="300px" width="350px" align="right"> <br>
-I'm a passionate learner who's always hungry for knowledge. <br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/parazeeknova/parazeeknova/main/assets/illustration.png" mian-width="300px" max-width="300px" width="350px" align="right"> <br>
+
 🔭 I’m currently building my own text editor. <br>
 📖 I'm currently learning MERN stack & DevOps. <br>
 🎓 Education : Bachelor of Technology in Computer Science and Engineering with specialization in Artificial Intelligence and Machine learning. <br>
