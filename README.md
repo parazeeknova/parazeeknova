@@ -8,8 +8,6 @@
 " style="text-decoration: underline;">Projects</a> | <a href="https://harshsahu-portfolio.vercel.app/#resume" style="text-decoration: underline;">Resume</a> | <a href="https://harshsahu-portfolio.vercel.app/#contactthroughmail" style="text-decoration: underline;">Contact</a> | <a href="https://harshsahu-portfolio.vercel.app/#aboutsection" style="text-decoration: underline;">About</a>
 
 </p>
-<details>	
- <summary><b>Socials</b></summary><br>
  <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.hashcodes@gmail.com)
@@ -19,9 +17,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/users/Parazeeknova#0122)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashk/)
 </div>
-</details> 
-
----
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
