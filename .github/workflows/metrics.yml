@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
   schedule: [{cron: "0 0 */1 * *"}]
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -16,8 +14,6 @@ jobs:
       - uses: parazeeknova/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: parazeeknova
           template: classic
           base: header, activity, community, repositories, metadata
@@ -82,3 +78,11 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 2
           plugin_traffic: yes
+  delete-runs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete workflow runs
+        uses: Mattraks/delete-workflow-runs@main
+        with:
+          retain_days: 2
+          keep_minimum_runs: 2
