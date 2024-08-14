@@ -20,9 +20,7 @@ jobs:
           base_hireable: yes
           base_indepth: yes
           config_display: large
-          config_octicon: yes
           config_timezone: Asia/Calcutta
-          config_twemoji: yes
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
@@ -32,18 +30,16 @@ jobs:
           plugin_activity_visibility: all
           plugin_code: yes
           plugin_code_days: 3
-          plugin_code_lines: 12
+          plugin_code_lines: 10
           plugin_code_load: 400
-          plugin_code_visibility: all
+          plugin_code_visibility: public
           plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: graph
+          plugin_habits_charts_type: classic
           plugin_habits_days: 14
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_habits_languages_limit: 10
           plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
           plugin_introduction: yes
           plugin_introduction_title: yes
           plugin_isocalendar: yes
@@ -53,10 +49,8 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: lua, shell
           plugin_languages_indepth: yes
-          plugin_languages_limit: 50
-          plugin_languages_other: yes
+          plugin_languages_limit: 12
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
@@ -67,16 +61,14 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           plugin_repositories: yes
-          plugin_repositories_featured: nyxtext, MyFolio
+          plugin_repositories_featured: nyxtext-zenith, nyxtext, Myfolio, dotfiles, yggdrasil-todo
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_repositories_pinned: 2
+          plugin_repositories_pinned: 4
           plugin_repositories_starred: 2
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
-          plugin_stars: yes
-          plugin_stars_limit: 2
           plugin_traffic: yes
   delete-runs:
     runs-on: ubuntu-latest
