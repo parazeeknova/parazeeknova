@@ -65,6 +65,7 @@ jobs:
           plugin_lines_repositories_limit: 16
           plugin_lines_sections: base
           plugin_repositories: yes
+          plugin_repositories_featured: nyxtext-zenith, nyxtext, Myfolio, dotfiles, yggdrasil-todo
           plugin_repositories_order: featured, pinned, starred, random
           plugin_stars: yes
           plugin_stars_limit: 2
