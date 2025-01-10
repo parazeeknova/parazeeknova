@@ -2,7 +2,7 @@
 <p align="center">
 <em>
      A Second year <b>Computer Science</b> undergraduate from <b>VIT</b></a>.
-    An aspiring <b>Full Stack</b>&nbsp; and <b> AI & ML Enthusiast.</b> </em>
+    An aspiring <b>Full Stack</b>&nbsp; and <b> ML Enthusiast.</b> </em>
   <br>
   ✨I translate ideas into pixels and interactivity on the web. View my <a href="https://dev.zephyyrr.in" style="text-decoration: underline;">Portfolio</a> | <a href="https://dev.zephyyrr.in/pages/project" style="text-decoration: underline;">Projects</a> | <a href="https://dev.zephyyrr.in/pages/resume" style="text-decoration: underline;">Resume</a> |
 
