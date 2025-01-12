@@ -23,18 +23,6 @@ jobs:
           config_octicon: yes
           config_timezone: Asia/Calcutta
           config_twemoji: yes
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 4
-          plugin_activity_load: 300
-          plugin_activity_timestamps: yes
-          plugin_activity_visibility: public
-          plugin_code: yes
-          plugin_code_days: 10
-          plugin_code_lines: 10
-          plugin_code_load: 400
-          plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
