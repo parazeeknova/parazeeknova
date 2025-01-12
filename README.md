@@ -4,7 +4,7 @@
      A Second year <b>Computer Science</b> undergraduate from <b>VIT</b></a>.
     An aspiring <b>Full Stack</b>&nbsp; and <b> ML Enthusiast.</b> </em>
   <br>
-  ✨I translate ideas into pixels and interactivity on the web. View my <a href="https://dev.zephyyrr.in" style="text-decoration: underline;">Portfolio</a> | <a href="https://dev.zephyyrr.in/pages/project" style="text-decoration: underline;">Projects</a> | <a href="https://dev.zephyyrr.in/pages/resume" style="text-decoration: underline;">Resume</a> |
+  ✨I translate ideas into pixels and interactivity on the web. View my <a href="https://share.zephyyrr.in/s/folio" style="text-decoration: underline;">Portfolio</a> | <a href="https://share.zephyyrr.in/s/zephyr" style="text-decoration: underline;">Zephyr</a> |
 
 </p>
  <div align="center">
