@@ -35,7 +35,6 @@ jobs:
           plugin_code_lines: 10
           plugin_code_load: 400
           plugin_code_visibility: public
-          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -65,10 +64,8 @@ jobs:
           plugin_lines_repositories_limit: 16
           plugin_lines_sections: base
           plugin_repositories: yes
-          plugin_repositories_featured: nyxtext-zenith, nyxtext, Myfolio, dotfiles, yggdrasil-todo
+          plugin_repositories_featured: zephyr, zephyr-forge, velastria, nyxtext-zenith, Myfolio, yggdrasil-todo
           plugin_repositories_order: featured, pinned, starred, random
-          plugin_stars: yes
-          plugin_stars_limit: 2
           plugin_traffic: yes
           
   delete-runs:
