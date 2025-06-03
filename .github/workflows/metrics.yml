@@ -38,11 +38,12 @@ jobs:
           plugin_languages: yes
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          plugin_languages_categories: data, markup, programming, prose
+          plugin_languages_categories: programming
+          plugin_languages_skipped: ini, xml, svg
           plugin_languages_colors: github, renderscript:#B7410E, tsx:#3E7EC4
           plugin_languages_indepth: yes
           plugin_languages_limit: 24
-          plugin_languages_recent_categories: data, markup, programming, prose
+          plugin_languages_recent_categories: programming
           plugin_languages_indepth_custom: parazeeknova/zephyr, parazeeknova/zephara, parazeeknova/vue-the-world, parazeeknova/nyxtext-zenith
           plugin_languages_recent_days: 24
           plugin_languages_recent_load: 1000
