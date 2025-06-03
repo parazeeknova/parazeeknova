@@ -39,7 +39,7 @@ jobs:
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 40
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
+          plugin_languages_colors: github, renderscript:#B7410E, TSX:#3E7EC4
           plugin_languages_indepth: yes
           plugin_languages_limit: 24
           plugin_languages_recent_categories: markup, programming
@@ -47,7 +47,7 @@ jobs:
           plugin_languages_recent_load: 600
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 1%
-          plugin_languages_aliases: renderscript:rust
+          plugin_languages_aliases: renderscript:Rust, TSX:React-Typescript
           plugin_languages_details: bytes-size, lines, percentage
           plugin_lines: yes
           plugin_lines_history_limit: 2
