@@ -61,6 +61,7 @@ jobs:
           plugin_wakatime_repositories_visibility: all
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.zephyyrr.in
+          plugin_wakatime_token: ${{ secrets.WAKAPI_TOKEN }}
           plugin_wakatime_user: parazeeknova
           
   delete-runs:
