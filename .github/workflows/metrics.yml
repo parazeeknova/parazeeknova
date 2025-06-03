@@ -29,7 +29,7 @@ jobs:
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_from: 200
-          plugin_habits_languages_limit: 12
+          plugin_habits_languages_limit: 24
           plugin_habits_languages_threshold: 1%
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -37,14 +37,15 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_analysis_timeout: 60
-          plugin_languages_analysis_timeout_repositories: 40
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github, renderscript:#B7410E, TSX:#3E7EC4
+          plugin_languages_analysis_timeout_repositories: 15
+          plugin_languages_categories: data, markup, programming, prose
+          plugin_languages_colors: github, renderscript:#B7410E, tsx:#3E7EC4
           plugin_languages_indepth: yes
           plugin_languages_limit: 24
-          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_categories: data, markup, programming, prose
+          plugin_languages_indepth_custom: parazeeknova/zephyr, parazeeknova/zephara, parazeeknova/vue-the-world, parazeeknova/nyxtext-zenith
           plugin_languages_recent_days: 24
-          plugin_languages_recent_load: 600
+          plugin_languages_recent_load: 1000
           plugin_languages_sections: most-used, recently-used
           plugin_languages_threshold: 1%
           plugin_languages_aliases: renderscript:Rust, TSX:React-Typescript
