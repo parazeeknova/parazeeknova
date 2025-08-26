@@ -6,9 +6,7 @@
     Co-founder of <b>Singularity Works</b> · <b>Fullstack Intern</b> in Musqat, Oman
   </em>
   <br>
-  Also a Third year <b>Computer Science</b> undergraduate at <b>VIT</b>. Visit my
-  <a href="https://folio.zephyyrr.in" style="text-decoration: underline;">Portfolio</a> |
-  <a href="https://share.zephyyrr.in/s/resume" style="text-decoration: underline;">Resume</a>
+  Also a Third year <b>Computer Science</b> undergraduate at <b>VIT</b>.
 </p>
 
 <br>
@@ -41,6 +39,13 @@
         <img src="https://github.com/parazeeknova/myfolio-v2/blob/main/.github/assets/apple-touch-icon.png?raw=true" alt="Myfolio's logo" width="80px"/><br>
         <strong>About me</strong><br>
         <sub>Design Portfolio</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://share.zephyyrr.in/s/resume">
+        <img src="https://pub-a90e61d1277c4fd5a8e05c37814221e5.r2.dev/placeholder.png" alt="Myfolio's logo" width="80px"/><br>
+        <strong>Resume</strong><br>
+        <sub>Link to my Resume</sub>
       </a>
     </td>
   </tr>
