@@ -43,7 +43,9 @@
     </td>
     <td align="center">
       <a href="https://share.zephyyrr.in/s/resume">
-        <img src="https://pub-a90e61d1277c4fd5a8e05c37814221e5.r2.dev/placeholder.png" alt="Myfolio's logo" width="80px"/><br>
+        <br>
+        <img src="https://pub-a90e61d1277c4fd5a8e05c37814221e5.r2.dev/placeholder.png" alt="Placeholder's logo" width="100px"/>
+        <br>
         <strong>Resume</strong><br>
         <sub>Link to my Resume</sub>
       </a>
