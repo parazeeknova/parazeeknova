@@ -1,4 +1,4 @@
-![MasterHead](assets/github-banner.png)
+![MasterHead](https://storage-r2.zephyyrr.in/Assets/github-banner.png)
 
 <p align="center">
   <em>
@@ -36,7 +36,7 @@
     </td>
     <td align="center">
       <a href="https://folio.zephyyrr.in">
-        <img src="https://github.com/parazeeknova/myfolio-v2/blob/main/.github/assets/apple-touch-icon.png?raw=true" alt="Myfolio's logo" width="80px"/><br>
+        <img src="https://storage-r2.zephyyrr.in/Assets/myfolio.png" alt="Myfolio's logo" width="80px"/><br>
         <strong>About me</strong><br>
       </a>
       <sub>Design Portfolio</sub>
