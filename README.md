@@ -42,7 +42,7 @@
       <sub>Design Portfolio</sub>
     </td>
     <td align="center">
-      <a href="https://share.zephyyrr.in/s/resume">
+      <a href="https://gist.zephyyrr.in">
         <br>
         <img src="https://storage-r2.singularityworks.xyz/placeholder.png" alt="Placeholder's logo" width="100px"/>
         <br>
