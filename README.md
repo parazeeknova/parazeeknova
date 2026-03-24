@@ -2,8 +2,8 @@
 
 <p align="center">
   <em>
-    <b>Fullstack</b> & <b>DevOps Engineer ·
-    Co-founder of <b>Singularity Works</b> · <b>Fullstack Intern</b> in Musqat, Oman
+    <b>Fullstack</b> & <b>Infrastructure Engineer ·
+    Co-founder of <b>Singularity Works</b>
   </em>
   <br>
   Also a Third year <b>Computer Science</b> undergraduate at <b>VIT</b>.
@@ -28,7 +28,7 @@
       </a>
     </td> -->
     <td align="center">
-      <a href="https://singularityworks.xyz">
+      <a href="https://itssingularity.com">
         <img src="https://storage-r2.singularityworks.xyz/singularity-icon.svg" alt="Singularity Works's Logo" width="80px"/><br>
         <strong>Singularity Works</strong><br>
       </a>
